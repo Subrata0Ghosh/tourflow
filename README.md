@@ -5,6 +5,13 @@ A Flutter application showcasing a **single workflow for booking tourism package
 This app demonstrates clean architecture using the **BLoC pattern**, follows **SOLID principles**, and includes **error handling**, **mock data**, **unit tests**, and an **aesthetic user interface** — all without login or API integration.
 
 ---
+## 📱 App Demo
+
+[![Watch the demo](https://img.youtube.com/vi/cpfrnRgToJs/0.jpg)](https://youtube.com/shorts/cpfrnRgToJs?feature=share)  
+Click the image to watch the app demo on YouTube Shorts 🎥
+
+
+---
 ## 🧭 App Workflow Preview
 
 A visual flow of the Tourism Booking App 👇
